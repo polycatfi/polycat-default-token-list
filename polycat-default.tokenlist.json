@@ -74,6 +74,22 @@
             "chainId": 137,
             "decimals": 8,
             "logoURI": "https://polycat.finance/images/tokens/wbtc.svg"
+        },
+        {
+            "name": "PolyPulsar",
+            "symbol": "GPUL",
+            "address": "0x40ed0565eCFB14eBCdFE972624ff2364933a8cE3",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/KANnnoA.png"
+        },
+        {
+            "name": "PolyPulsar",
+            "symbol": "GBNT",
+            "address": "0x8c9aAcA6e712e2193acCCbAC1a024e09Fb226E51",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/tYmM1B5.png"
         }
     ]
 }
