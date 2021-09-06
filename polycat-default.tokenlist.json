@@ -90,6 +90,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://i.imgur.com/tYmM1B5.png"
+        },
+        {
+            "name": "PolyNuts",
+            "symbol": "NUTS",
+            "address": "0xf28CA9d779CA6A1945A85Ac50bdB7Dd5D0038c1F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polynuts.farm/images/farms/nuts.png"
         }
     ]
 }
