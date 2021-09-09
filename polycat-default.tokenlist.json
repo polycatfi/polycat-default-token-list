@@ -90,6 +90,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://i.imgur.com/tYmM1B5.png"
+        },
+        {
+            "name": "PolyPup Collar",
+            "symbol": "COLLAR",
+            "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8CB7exY.png"
         }
     ]
 }
