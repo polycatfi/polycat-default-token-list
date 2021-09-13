@@ -30,6 +30,14 @@
         {
             "name": "Paw",
             "symbol": "PAW",
+            "address": "0xBC5b59EA1b6f8Da8258615EE38D40e999EC5D74F",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polycat.finance/images/tokens/paw.svg"
+        },
+        {
+            "name": "Paw",
+            "symbol": "OLD PAW (MIGRATE)",
             "address": "0x6971AcA589BbD367516d70c3d210E4906b090c96",
             "chainId": 137,
             "decimals": 18,
@@ -81,7 +89,7 @@
             "address": "0x40ed0565eCFB14eBCdFE972624ff2364933a8cE3",
             "chainId": 137,
             "decimals": 18,
-            "logoURI": "https://i.imgur.com/KANnnoA.png"
+            "logoURI": "https://polycat.finance/images/tokens/gpul.svg"
         },
         {
             "name": "PolyPulsar",
@@ -89,7 +97,39 @@
             "address": "0x8c9aAcA6e712e2193acCCbAC1a024e09Fb226E51",
             "chainId": 137,
             "decimals": 18,
-            "logoURI": "https://i.imgur.com/tYmM1B5.png"
+            "logoURI": "https://polycat.finance/images/tokens/gbnt.svg"
+        },
+        {
+            "name": "EVOdefi",
+            "symbol": "GENX",
+            "address": "0x3eCdeB8fC5023839B92b0c293D049D61069e02b1",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polycat.finance/images/tokens/genx.svg"
+        },
+        {
+            "name": "CosmicSwap",
+            "symbol": "COSMIC",
+            "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polycat.finance/images/tokens/cosmic.svg"
+        },
+        {
+            "name": "Firebird",
+            "symbol": "HOPE",
+            "address": "0xd78c475133731cd54dadcb430f7aae4f03c1e660",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polycat.finance/images/tokens/hope.svg"
+        },
+        {
+            "name": "Dfyn",
+            "symbol": "DFYN",
+            "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polycat.finance/images/tokens/dfyn.svg"
         },
         {
             "name": "PolyNuts",
@@ -98,6 +138,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://polynuts.farm/images/farms/nuts.png"
+        },
+        {
+            "name": "PolyPup Collar",
+            "symbol": "COLLAR",
+            "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/8CB7exY.png"
         }
     ]
 }
