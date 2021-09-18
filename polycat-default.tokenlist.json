@@ -146,6 +146,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://i.imgur.com/8CB7exY.png"
+        },
+		{
+            "name": "Dogira",
+            "symbol": "DOGIRA",
+            "address": "0xdDa40cdfe4A0090f42Ff49f264A831402ADB801A",
+            "chainId": 137,
+            "decimals": 9,
+            "logoURI": "https://dogira.net/Dogira-512x512.png"
         }
     ]
 }
