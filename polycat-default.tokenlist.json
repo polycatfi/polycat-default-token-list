@@ -146,6 +146,14 @@
             "chainId": 137,
             "decimals": 18,
             "logoURI": "https://i.imgur.com/8CB7exY.png"
+        },
+        {
+            "name": "PolyWise",
+            "symbol": "WISE",
+            "address": "0x4c19DdeebAF84cA3A255730295AD9d824D4Ff51f",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polywise.finance/images/farms/wise.png"
         }
     ]
 }
