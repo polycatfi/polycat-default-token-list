@@ -147,5 +147,12 @@
             "decimals": 18,
             "logoURI": "https://i.imgur.com/8CB7exY.png"
         }
+            "name": "PolySage",
+            "symbol": "SAGE",
+            "address": "0x2ed945Dc703D85c80225d95ABDe41cdeE14e1992",
+            "chainId": 137,
+            "decimals": 18,
+            "logoURI": "https://polysage.finance/images/farms/sage.png"
+        }
     ]
 }
