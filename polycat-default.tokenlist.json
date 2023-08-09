@@ -37,7 +37,7 @@
         },
         {
             "name": "Paw",
-            "symbol": "OLD PAW (MIGRATE)",
+            "symbol": "OLD PAW MIGRATE",
             "address": "0x6971AcA589BbD367516d70c3d210E4906b090c96",
             "chainId": 137,
             "decimals": 18,
